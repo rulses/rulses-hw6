@@ -8,4 +8,5 @@ body {
   margin: auto;
   background-color: white;
   border: 1px solid black;
+  box-shadow: 6px blue;
 }
